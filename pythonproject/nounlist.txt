@@ -52,7 +52,6 @@ adapters
 addictions
 additions
 addresses
-adjectives
 adjustments
 admins
 admission
@@ -60,7 +59,7 @@ adoptions
 adrenalin
 adults
 adulthood
-advertisement
+advertisements
 advertising
 advice
 affairs
@@ -105,7 +104,6 @@ alloys
 almanacs
 almonds
 alpacas
-alphas
 alphabets
 altars
 alterations
@@ -412,12 +410,6 @@ beer
 beets
 beetles
 beggars
-beginners
-beginnings
-begonia
-behalf
-behavior
-behaviour
 beliefs
 believers
 bells
@@ -447,8 +439,7 @@ bikes
 bikinis
 bills
 billboards
-billings
-billions
+billing
 bins
 binoculars
 biology
@@ -611,7 +602,6 @@ vegetation
 vehicles
 veils
 whales
-wharf
 wheat
 wheels
 whiskey
@@ -620,8 +610,6 @@ whistles
 wifi
 Windows
 wine
-winks
-winners
 winter
 wires
 wiretapping
@@ -633,8 +621,7 @@ wisteria
 wits
 witches
 witch-hunts
-withdrawals
-witness
+witnesses
 woks
 wolves
 women
@@ -673,56 +660,56 @@ Artificial Intelligence
 Connected Retail
 IoT
 Internet of Things
-Hyperautomation
-Machine Learning
+hyperautomation
+machine learning
 ML
 DDoS
-Cybersecurity
+cybersecurity
 SaaS
 Software-as-a-Service
-Networking
-Blockchain
-Crypto
-Cryptocurrency
+networking
+blockchain
+crypto
+cryptocurrency
 Dogecoin
 IT
-Technology
+technology
 Macintoshes
 Macs
 PCs
-Quantum Computing
+quantum computing
 Voice as User Interface
-Multiexperiences
-Multiplatform
-Platform Agnostic
-Virtual Assistant
+multiexperiences
+multiplatform software
+platform agnostic code
+virtual assistant integration
 Siri
 Alexa
-Big Data
-Data Mining
-Web Scraping
-Actionable Analytics
+big data
+data mining
+web scraping
+actionable analytics
 Net Neutrality
-Capitalism
-Chatbots
-Voice Recognition
-Robotics
+capitalism
+chatbots
+voice recognition
+robotics
 Jeffrey Epstein
 Epstein
 4G
 5G
 Agile
 Ajax
-Algorithms
+algorithms
 APIs
-Benchmarking
-Back-end Development
-Developers
-Front-end Development
+benchmarking
+back-end development
+developers
+front-end development
 Raspberry Pis
 Arduinos
-Clickthrough
-Cloud-computing
+clickthrough
+cloud-computing
 AWS
 Azure
 Google Cloud
@@ -731,28 +718,28 @@ CSS
 HTML
 Java
 JavaScript
-Data Science
-The Dark Web
+data science
+the Dark Web
 Deep Learning
 Tensorflow
 DevOps
-The digital divide
+the digital divide
 DRM
-Encryption
-Decryption
-Fuzzy Logic
+encryption
+decryption
+fuzzy logic
 HTML5
-Open Source Technology
-Podcasting
-Responsive Web Design
-Social Media
+open source technology
+podcasting
+responsive web design
+social media
 Slack
 SD-WAN
-Spam
+spam
 Web 2.0
-Nationstate Hacking
-Nukes
-Loneliness
+nationstate hacking
+nukes
+loneliness
 Google Maps
 VMware Horizon
 Discord
@@ -760,7 +747,7 @@ Google Chrome
 Python
 Lua
 Mountain Dew
-Vodka
+vodka
 Firefox
 Signal
 Telegram
@@ -768,21 +755,72 @@ GroupMe
 iPhones
 Androids
 Sony
-Vinyl records
+vinyl records
 Umer
 Next Generation Firewalls
-Firewalls
-Endpoint Protection
-Antivirus
+firewalls
+endpoint protection
+antivirus software
 LaserDiscs
-VHS Tapes
-Magnetic Tapes
+VHS tapes
+magnetic tapes
 Nintendo Switches
-LCD Panels
-Cookies
+LCD panels
+cookies
 Donald Trump
-Fear
-Integers
-Coding
-Programming
+fear
+integers
+coding
+programming
 IDEs
+Netscape
+AOL
+Internet Explorer
+mechanical keyboards
+dropshipping
+Pelotons
+TVs
+stock trading
+communism
+Marxism
+socialism
+political revolution
+transportation
+last mile
+electric scooters
+ridesharing
+video games
+virtual reality
+VR
+floppy disks
+USB power
+USB storage
+cloud storage
+MySQL
+databases
+project management
+hacking
+pentesting
+IR
+WiFi 6
+Bluetooth
+RFID
+lasers
+scanning
+facial recognition
+gender
+vaporwave music
+wireless technology
+authoritarianism
+democracy
+group messaging
+phone notifications
+an iOS app
+an Android app
+a web application
+video streaming
+real time data
+Netflix
+real time analytics
+historical data
+predictive analytics
