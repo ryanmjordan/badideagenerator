@@ -180,7 +180,6 @@ appetites
 appetizers
 applause
 apples
-applewoods
 appliances
 applications
 appointments
@@ -824,3 +823,7 @@ Netflix
 real time analytics
 historical data
 predictive analytics
+the English language
+the Spanish language
+the Chinese language
+the French language
