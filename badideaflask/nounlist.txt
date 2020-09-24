@@ -78,7 +78,8 @@ airfields
 airforce
 airlines
 airmail
-airplane
+airplanes
+airplane food
 airports
 airships
 airspace
@@ -585,7 +586,7 @@ crows
 crowds
 crowns
 crucifixion
-deers
+deer
 salaries
 sales
 salesmen
@@ -615,9 +616,7 @@ wires
 wiretapping
 wiring
 wisdom
-wiseguy
 wishes
-wisteria
 wits
 witches
 witch-hunts
