@@ -583,8 +583,269 @@ caskets
 crows
 crowds
 crowns
+computers
 crucifixion
+crystals
+cubes
+cuckoos
+cucumbers
+cues
+cuff-links
+cultivating
+culture
+cups
+cupcakes
+cures
+curios
+curiosity
+currency
+currencies
+curry
+cursing
+mouse cursors
+cushions
+custard
+cutting
+cutlets
+cycling
+cyclones
+cyclooxygenase
+cylinders
+cymbals
+cynicism
+cysts
+cytoplasms
 deers
+dads
+daggers
+dairy
+daisies
+dams
+dancing
+dancers
+darkness
+darts
+dashes
+dashboards
+data
+a database
+databases
+dates
+dating
+daughters
+daylight
+deadlines
+deals
+dealers
+dealing
+death
+debating
+debt
+decimals
+decisions
+decision-making
+decks
+declarations
+decoders
+decongestants
+decorations
+decreasing the minimum wage
+decryption
+degrees
+delays
+deliveries
+drone delivery
+democracy
+demons
+denim
+dentistry
+deodorant
+deposits
+deposition
+depression
+derivative
+designs
+designers
+desire
+desks
+desktops
+Windows XP
+desserts
+destinations
+destruction
+details
+detainees
+detainment
+detectives
+detectors
+detention
+devastation
+developers
+development
+devices
+devils
+diabetes
+diagnoses 
+diagrams
+dialing
+dialects
+dialogue
+diamonds
+diapers
+diaries
+dictaphones
+dictators
+diction
+dictionaries
+dying 
+diesel fuel
+dieting
+digging
+digestion
+digits
+dignity
+dilapidation
+dill pickles
+dilution
+dimes
+alternate dimension
+dining
+dinner
+dinosaurs
+diplomas
+diplomacy
+dipsticks
+directions
+directing
+dirt
+disabilities
+disadvantages
+disagreements
+disappointments
+disarmament
+disasters
+discipline
+disclaimers
+disclosure
+disco
+disconnections
+discounts
+discovery
+discrepancies
+discretion
+discrimination
+discussion
+disdain
+diseases
+disembodiment
+disguises
+disgust
+dishes
+dishwashers
+disks
+displays
+disputes
+disruption
+distances
+distinction
+distortion
+distribution
+distributors
+districts
+diving
+diversity
+dividends
+dividers
+division
+divorce
+doctors
+doctorate degrees
+documents
+document scanning
+documentaries
+documentation
+dogs
+doing things
+dolls
+dollars
+dolphins
+domains
+domain names
+domination
+donations
+donkies
+donors
+donuts
+doors
+doorbells
+doorknobs
+doorposts
+doorways
+doses
+dots
+doubt
+doubters
+dough
+doughnuts
+downforce
+downgrading
+downloads
+downloading
+dozens of eggs
+draft beer
+draft dodging
+drag racing
+dragons
+dragonflies
+dragsters
+drains
+drainage
+drama
+drawing
+drawings
+drawbridges
+dreams
+dreamers
+dreaming
+dresses
+dressers
+drills
+drilling
+drinks
+drinking
+drivers
+driveways
+driving
+dropping phones
+drugs
+drug dealing
+drumming
+drummers
+drunks
+dryers
+ducks
+ducklings
+duds
+dudes
+dues
+duels
+dueling
+dumps
+dump trucks
+dunes
+dune buggies
+dungeons
+duplexes
+dusk
+dust
+dust storms
+dusters
+duties
+dwarves
+dwelling
+dynamics
+dynamite
+dynasties
 salaries
 sales
 salesmen
@@ -827,3 +1088,151 @@ the English language
 the Spanish language
 the Chinese language
 the French language
+gender reveals
+e-books
+e-mail
+e-readers
+eagles
+ears
+earnings
+earplugs
+earrings
+earthquakes
+earthworms
+eating
+eclipses
+ecology
+economics
+ecosystems
+edibles
+editing
+editorials
+education
+eels
+eggs
+elbows
+elections
+electricity
+electrocardiograms
+electronics
+elements
+elephants
+elevators
+elves
+elites
+elixirs
+elk
+ellipses
+elongation
+email
+embarrassment
+embassies
+embryos
+emeralds
+emergencies
+emissions
+emitters
+emotions
+empires
+employment
+employees
+employers
+empowerment
+emus
+enclosures
+encyclopedias
+endpoints
+edge computing
+energy
+enforcement
+engines
+engineers
+engineering
+enterprise software
+entertainment
+entrepreneurs
+envelopes
+the environment
+enzymes
+equality
+equations
+escaping prison
+escorts
+essay writing
+estates
+estimating
+estrogen
+eternity
+Ethernet
+ethics
+ethnicity
+ethyl alcohol
+eurocentrism
+evaluation
+evaluator
+evaporation
+events
+evictions
+evil
+evocation
+evolution
+ex-husbands
+ex-wives
+exams
+examination
+excitement
+excuses
+executions
+executives
+executors
+Uber of evictions
+exercise
+exercises
+exhaust fumes
+exhaustion
+exhibits
+exile
+exit
+those red Exit signs
+expansion
+expansionism
+expectancy
+expectations
+expeditions
+expenses
+experience
+experiments
+experimentation
+experts
+expertise
+explanations
+explorations
+explorers
+explosions
+exports
+exporting
+exposure to radiation
+extensions
+external hard drive
+extinction
+extremist beliefs
+eyes
+eyeballs
+eyebrows
+eyeglasses
+eyelashes
+eyelids
+eyeliner
+eyestrain
+the Bad Idea Generator
+fast food
+SIEM logging
+DAWs
+MP4 files
+.io domain names
+microchips
+chips implanted in your arm
+vaccines
+RS232 interfaces
+SCSI cables
+dial up modems
